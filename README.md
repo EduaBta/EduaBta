@@ -32,9 +32,8 @@ Aqui estão algumas das tecnologias e ferramentas que domino e que utilizo nos m
 ## 🎯 Sobre mim
 
 - 🔭 Atualmente estou trabalhando em projetos de **desenvolvimento web**.
-- 🌱 Estou sempre aprendendo novas tecnologias e frameworks como **React** e **Node.js**.
-- 🎮 No meu tempo livre, gosto de jogar games multiplataforma e explorar novas ferramentas de desenvolvimento.
-- 📚 Apaixonado por **aprender** e compartilhar conhecimento com a comunidade.
+- 🌱 Estou sempre aprendendo novas tecnologias e frameworks.
+- 📚 Gosto de **aprender** e compartilhar conhecimento com a comunidade.
 
 ---
 
