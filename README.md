@@ -1,77 +1,94 @@
-# Bora pra cima, Família! 🚀😁
+<div align="center" style="position:relative; overflow:hidden;">
+  
+  <!-- Efeito de estrelas de fundo -->
+  <div style="position:absolute; top:0; left:0; width:100%; height:100%; z-index:-1; background: linear-gradient(to bottom, #000000, #0a0a2a);">
+    <div style="position:absolute; width:100%; height:100%; background-image: 
+      radial-gradient(white, rgba(255,255,255,.2) 1px, transparent 1px),
+      radial-gradient(white, rgba(255,255,255,.15) 1px, transparent 1px),
+      radial-gradient(white, rgba(255,255,255,.1) 1px, transparent 1px);
+      background-size: 300px 300px, 200px 200px, 100px 100px;
+      background-position: 0 0, 40px 60px, 130px 270px;">
+    </div>
+  </div>
 
-Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia e desenvolvimento de software, sempre em busca de novos desafios e aprendizados. Aqui você encontrará meus projetos, contribuições e o que estou explorando no mundo da programação. Vamos juntos nessa jornada de evolução! 💻
+  <!-- Conteúdo do perfil -->
+  <div style="position:relative; z-index:1;">
 
----
+# <span style="color: #00ff9d; text-shadow: 0 0 10px #00ff9d, 0 0 20px #00ff9d;">SISTEMA//INICIALIZADO</span>
 
-<div align="center">
-  <a href="https://github.com/EduaBta">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduaBta&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduaBta&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens mais usadas"/>
-  </a>
+### <span style="color: #00eeff; font-family: 'Courier New', monospace; text-shadow: 0 0 5px #00eeff;">>> USUÁRIO: EDUARDO_BATAEL</span>
+
+### <span style="color: #00eeff; font-family: 'Courier New', monospace; text-shadow: 0 0 5px #00eeff;">>> STATUS: MOTORES_DE_CÓDIGO_ATIVOS</span>
+
+<div align="center" style="margin: 30px 0;">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=BEM_VINDO_A_MINHA_REALIDADE_DIGITAL;DESENVOLVEDOR_FULLSTACK;ENTUSIASTA_DE_TECNOLOGIA;CONTRIBUIDOR_OPEN_SOURCE" alt="Animação de digitação" />
 </div>
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## <span style="color: #00d9ff; border-bottom: 1px solid #00d9ff; text-shadow: 0 0 5px #00d9ff;">SISTEMA//STATUS</span>
 
-Aqui estão algumas das tecnologias e ferramentas que domino e que utilizo nos meus projetos:
+<div align="center" style="background: rgba(13, 17, 23, 0.7); padding: 20px; border-radius: 10px; border: 1px solid #00ffaa; box-shadow: 0 0 15px rgba(0, 255, 170, 0.5);">
+  
+  ![Matrix Scan](https://github-readme-stats.vercel.app/api?username=EduaBta&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=00ffaa&title_color=00ffaa&text_color=ffffff&icon_color=00ffaa)
+  
+  ![Frequência de Código](https://github-readme-stats.vercel.app/api/top-langs/?username=EduaBta&layout=compact&theme=vision-friendly-dark&bg_color=0d1117&border_color=00ffaa&title_color=00ffaa&text_color=ffffff)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3">
-  <img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP">
-  <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL">
-  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git">
-  <img align="center" alt="VSCode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="Visual Studio Code">
 </div>
 
 ---
 
-## 🎯 Sobre mim
+## <span style="color: #00d9ff; border-bottom: 1px solid #00d9ff; text-shadow: 0 0 5px #00d9ff;">TECNOLOGIAS//STACK</span>
 
-- 🔭 Atualmente estou trabalhando em projetos de **desenvolvimento web**.
-- 🌱 Estou sempre aprendendo novas tecnologias e frameworks.
-- 📚 Gosto de **aprender** e compartilhar conhecimento com a comunidade.
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; background: rgba(13, 17, 23, 0.7); padding: 20px; border-radius: 10px; border: 1px solid #00ffaa; box-shadow: 0 0 15px rgba(0, 255, 170, 0.5);">
 
----
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=0d1117)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=0d1117)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=0d1117)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=php&logoColor=%23777BB4&labelColor=0d1117)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&logoColor=%234479A1&labelColor=0d1117)
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=%23F05032&labelColor=0d1117)
+![VS Code](https://img.shields.io/badge/-VSCode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=%23007ACC&labelColor=0d1117)
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <a href="https://github.com/EduaBta">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduaBta&theme=tokyonight" alt="Streaks GitHub">
-  </a>
 </div>
 
 ---
 
-## 📫 Vamos nos conectar!
+## <span style="color: #00d9ff; border-bottom: 1px solid #00d9ff; text-shadow: 0 0 5px #00d9ff;">MISSÃO//OBJETIVOS</span>
 
-<div align="center">
-  <a href="https://www.instagram.com/eduardo_batael" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram">
-  </a>
-  <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" alt="Discord">
-  </a>
-  <a href="mailto:eduardobatael9@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/eduardo-batael-65414a2b0/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
-  </a>
+<div style="background: rgba(13, 17, 23, 0.7); padding: 20px; border-radius: 10px; border: 1px solid #00ffaa; box-shadow: 0 0 15px rgba(0, 255, 170, 0.5);">
+
+- 🔭 **PROJETO_ATUAL**: Desenvolvendo aplicações web resistentes a ciberataques
+- 🌱 **PROTOCOLO_DE_APRENDIZADO**: Dominando frameworks avançados de JavaScript
+- 💡 **OBJETIVO_DE_INOVAÇÃO**: Criando soluções impulsionadas por IA
+- 🛠️ **OPEN_SOURCE**: Contribuindo para a matriz global de desenvolvedores
+
 </div>
 
 ---
 
-## 🎨 Curiosidades
+## <span style="color: #00d9ff; border-bottom: 1px solid #00d9ff; text-shadow: 0 0 5px #00d9ff;">REDE//CONECTAR</span>
 
-- 🛠️ Adoro trabalhar em projetos **open-source** e colaborar com desenvolvedores ao redor do mundo.
-- ✨ **Fato curioso**: Sempre gostei de explorar novas linguagens de programação e ferramentas para ampliar meu conhecimento.
-- 🎯 Meu objetivo é me tornar um desenvolvedor **full-stack** completo e criar soluções que impactem positivamente a vida das pessoas.
+<div align="center" style="margin-top: 20px; background: rgba(13, 17, 23, 0.7); padding: 20px; border-radius: 10px; border: 1px solid #00ffaa; box-shadow: 0 0 15px rgba(0, 255, 170, 0.5);">
+
+[![Instagram](https://img.shields.io/badge/-INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=%23E4405F&labelColor=0d1117)](https://www.instagram.com/eduardo_batael)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=%230077B5&labelColor=0d1117)](https://www.linkedin.com/in/eduardo-batael-65414a2b0/)
+[![Gmail](https://img.shields.io/badge/-GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=%23D14836&labelColor=0d1117)](mailto:eduardobatael9@gmail.com)
+
+</div>
 
 ---
 
-✨ **"A jornada de mil milhas começa com um único passo."** ✨
+## <span style="color: #00d9ff; border-bottom: 1px solid #00d9ff; text-shadow: 0 0 5px #00d9ff;">SYSTEM//DIAGNOSTICS</span>
+
+<div align="center" style="margin: 25px 0; background: rgba(13, 17, 23, 0.7); padding: 20px; border-radius: 10px; border: 1px solid #00ffaa; box-shadow: 0 0 15px rgba(0, 255, 170, 0.5);"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=EduaBta&theme=neon-dark&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&background=0d1117&border=00ffaa&stroke=00ffaa&ring=00ffaa&fire=00ffaa&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ffaa&sideLabels=00ffaa&dates=ffffff" alt="GitHub Streak Stats" /> 
+</div>
+
+<span style="display: block; text-align: center; color: #00ffaa; font-family: 'Courier New', monospace; margin-top: 20px; text-shadow: 0 0 5px #00ffaa;"> 
+  // SYSTEM_MESSAGE: INNOVATION_REQUIRES_VISION_AND_EXECUTION<br> 
+  // READY_FOR_NEXT_MISSION 
+</span>
+
+  </div>
+</div>
