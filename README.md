@@ -53,13 +53,13 @@ Aqui estão algumas das tecnologias e ferramentas que utilizo nos meus projetos:
   <a href="https://www.instagram.com/devbatael" target="_blank" style="text-decoration = none;">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram">
   </a>
-  <a href="https://discord.com/channels/@me" target="_blank" style="text-decoration = none;>
+  <a href="https://discord.com/channels/@me" target="_blank" style="text-decoration = none;">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" alt="Discord">
   </a>
-  <a href="mailto:eduardobatael9@gmail.com" style="text-decoration = none;>
+  <a href="mailto:eduardobatael9@gmail.com" style="text-decoration = none;">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail">
   </a>
-  <a href="https://www.linkedin.com/in/eduardo-batael-65414a2b0/" target="_blank" style="text-decoration = none;>
+  <a href="https://www.linkedin.com/in/eduardo-batael-65414a2b0/" target="_blank" style="text-decoration = none;">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
   </a>
 </div>
