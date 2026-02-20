@@ -22,6 +22,7 @@ Aqui estão algumas das tecnologias e ferramentas que utilizo nos meus projetos:
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3">
   <img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP">
+  <img align="center" alt="PYTHON" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" title="PYTHON">
   <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL">
   <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git">
   <img align="center" alt="VSCode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="Visual Studio Code">
