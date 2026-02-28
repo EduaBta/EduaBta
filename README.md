@@ -66,7 +66,6 @@ Aqui você encontrará meus projetos, estudos e experiências no mundo da progra
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduaBta&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
 </div>
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EduaBta/EduaBta/output/github-contribution-grid-snake-dark.svg">
