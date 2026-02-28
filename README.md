@@ -1,13 +1,11 @@
 <div align="center">
-
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&pause=1000&color=00F7FF&background=00000000&center=true&vCenter=true&width=600&lines=Seja+bem+vindo+ao+meu+GitHub!;Desenvolvedor+em+formação;Sempre+evoluindo+🚀" />
-
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Michroma&pause=1000&color=00F7FF&width=435&lines=Seja+Bem+Vindo+ao+meu+GitHub" alt="Typing SVG" /></a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="./src/header.png" width="100%" />
+  <img border-radius="10px" src="./src/header.png" width="100%" />
 </div>
 
 ---
@@ -20,7 +18,7 @@ Aqui você encontrará meus projetos, estudos e experiências no mundo da progra
 
 ---
 
-<img align="right" height="190px" src="./src/binari.gif">
+<img align="right"  border-radius="50%" height="190px" src="./src/binari.gif">
 
 <h3 align="center">Connect with me</h3>
 
@@ -58,7 +56,7 @@ Aqui você encontrará meus projetos, estudos e experiências no mundo da progra
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="35"/>
 <img width="12"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="35"/>
-
+<img width="12"/>
 </div>
 
 ---
@@ -68,14 +66,6 @@ Aqui você encontrará meus projetos, estudos e experiências no mundo da progra
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduaBta&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=EduaBta&show_icons=true&theme=tokyonight&hide_border=true&icon_color=00F7FF&title_color=00F7FF&text_color=FFFFFF&bg_color=0D1117" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduaBta&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF&text_color=FFFFFF&bg_color=0D1117" />
 
 </div>
 
