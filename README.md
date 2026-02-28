@@ -1,84 +1,88 @@
-# Você vive ou sobrevive?
+<div align="center">
 
-Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia e desenvolvimento de software, sempre em busca de novos desafios e aprendizados. Aqui você encontrará meus projetos, contribuições e o que estou explorando no mundo da programação. Vamos juntos nessa jornada de evolução! 
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&pause=1000&color=00F7FF&background=00000000&center=true&vCenter=true&width=600&lines=Seja+bem+vindo+ao+meu+GitHub!;Desenvolvedor+em+formação;Sempre+evoluindo+🚀" />
+
+</div>
 
 ---
 
 <div align="center">
-  <a href="https://github.com/EduaBta">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduaBta&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduaBta&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens mais usadas"/>
-  </a>
+  <img src="./src/header.png" width="100%" />
 </div>
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
-
-Aqui estão algumas das tecnologias e ferramentas que utilizo nos meus projetos:
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3">
-  <img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP">
-  <img align="center" alt="PYTHON" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" title="PYTHON">
-  <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL">
-  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git">
-  <img align="center" alt="VSCode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="Visual Studio Code">
-</div>
+<p align="center">
+Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na Faculdade de Tecnologia Prof. José Camargo – Jales/SP.  
+Apaixonado por tecnologia e desenvolvimento de software, sempre em busca de novos desafios e evolução constante.  
+Aqui você encontrará meus projetos, estudos e experiências no mundo da programação.
+</p>
 
 ---
 
-## Sobre mim
+<img align="right" height="190px" src="./src/binari.gif">
 
-- Atualmente estou trabalhando em projetos de **desenvolvimento web**.
-- Estou sempre aprendendo novas tecnologias e frameworks.
-- Gosto de **aprender** e compartilhar conhecimento com a comunidade.
-
----
-
-## 📊 Estatísticas GitHub
+<h3 align="center">Connect with me</h3>
 
 <div align="center">
-  <a href="https://github.com/EduaBta">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduaBta&theme=tokyonight" alt="Streaks GitHub">
-  </a>
+
+[![Gmail](https://img.shields.io/badge/-%20-000?style=for-the-badge&logo=gmail&logoColor=00F7FF)](mailto:eduardobatael9@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-%20-000?style=for-the-badge&logo=linkedin&logoColor=00F7FF)](https://www.linkedin.com/in/eduardo-batael-65414a2b0/)
+[![Instagram](https://img.shields.io/badge/-%20-000?style=for-the-badge&logo=instagram&logoColor=00F7FF)](https://www.instagram.com/devbatael)
+[![Discord](https://img.shields.io/badge/-%20-000?style=for-the-badge&logo=discord&logoColor=00F7FF)](https://discord.com/users/dubatael)
+
 </div>
 
 ---
 
-## Vamos nos conectar!
+<h3 align="center">My Stack</h3>
 
 <div align="center">
-  <a href="https://www.instagram.com/devbatael" target="_blank" style="text-decoration = none;">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram">
-  </a>
-  <a href="https://discord.com/channels/@me" target="_blank" style="text-decoration = none;">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" alt="Discord">
-  </a>
-  <a href="mailto:eduardobatael9@gmail.com" style="text-decoration = none;">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/eduardo-batael-65414a2b0/" target="_blank" style="text-decoration = none;">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
-  </a>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="35"/>
+<img width="12"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="35"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="35"/>
+<img width="12"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="35"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35"/>
+<img width="12"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="35"/>
+<img width="12"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="35"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="35"/>
+
 </div>
 
 ---
 
-## 🎨 Curiosidades
+<h3 align="center">GitHub Stats</h3>
 
-- Adoro trabalhar em projetos **open-source** e colaborar com desenvolvedores ao redor do mundo.
-- **Fato curioso**: Sempre gostei de explorar novas linguagens de programação e ferramentas para ampliar meu conhecimento.
-- 🎯 Meu objetivo é me tornar um desenvolvedor **full-stack** completo e criar soluções que impactem positivamente a vida das pessoas.
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EduaBta&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=EduaBta&show_icons=true&theme=tokyonight&hide_border=true&icon_color=00F7FF&title_color=00F7FF&text_color=FFFFFF&bg_color=0D1117" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduaBta&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF&text_color=FFFFFF&bg_color=0D1117" />
+
+</div>
 
 ---
 
-✨ **"A jornada de mil milhas começa com um único passo."** ✨
-
-<picture align="center">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EduaBta/EduaBta/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EduaBta/EduaBta/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EduaBta/EduaBta/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EduaBta/EduaBta/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EduaBta/EduaBta/output/github-contribution-grid-snake-dark.svg">
 </picture>
