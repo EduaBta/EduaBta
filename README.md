@@ -18,7 +18,7 @@ Aqui você encontrará meus projetos, estudos e experiências no mundo da progra
 
 ---
 
-<img align="right"  border-radius="50%" height="190px" src="./src/binari.gif">
+<img align="right" height="190px" src="./src/binari.gif" style="border-radius: 50%; border: 3px solid #00F7FF; box-shadow: 0 0 15px #00F7FF;">
 
 <h3 align="center">Connect with me</h3>
 
@@ -55,7 +55,7 @@ Aqui você encontrará meus projetos, estudos e experiências no mundo da progra
 <img width="12"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="35"/>
 <img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="35"/>
 <img width="12"/>
 </div>
 
