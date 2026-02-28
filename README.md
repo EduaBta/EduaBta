@@ -67,14 +67,6 @@ Aqui você encontrará meus projetos, estudos e experiências no mundo da progra
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduaBta&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
 </div>
 ---
-## 📊 GitHub Stats
-
-![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=EduaBta&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduaBta&layout=compact&theme=tokyonight)
----
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EduaBta&theme=tokyonight)
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EduaBta/EduaBta/output/github-contribution-grid-snake-dark.svg">
