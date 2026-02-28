@@ -68,7 +68,8 @@ Aqui você encontrará meus projetos, estudos e experiências no mundo da progra
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduaBta&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
 
 </div>
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EduaBta&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EduaBta&theme=github)
 ---
 
 <picture>
