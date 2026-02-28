@@ -24,10 +24,10 @@ Aqui você encontrará meus projetos, estudos e experiências no mundo da progra
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/-%20-000?style=for-the-badge&logo=gmail&logoColor=00F7FF)](mailto:eduardobatael9@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-%20-000?style=for-the-badge&logo=linkedin&logoColor=00F7FF)](https://www.linkedin.com/in/eduardo-batael-65414a2b0/)
-[![Instagram](https://img.shields.io/badge/-%20-000?style=for-the-badge&logo=instagram&logoColor=00F7FF)](https://www.instagram.com/devbatael)
-[![Discord](https://img.shields.io/badge/-%20-000?style=for-the-badge&logo=discord&logoColor=00F7FF)](https://discord.com/users/dubatael)
+[![Gmail](https://img.shields.io/badge/000?style=for-the-badge&logo=gmail&logoColor=00F7FF)](mailto:eduardobatael9@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/000?style=for-the-badge&logo=linkedin&logoColor=00F7FF)](https://linkedin.com/in/eduardo-batael-65414a2b0)
+[![Instagram](https://img.shields.io/badge/000?style=for-the-badge&logo=instagram&logoColor=00F7FF)](https://www.instagram.com/devbatael)
+[![Discord](https://img.shields.io/badge/000?style=for-the-badge&logo=discord&logoColor=00F7FF)](https://discord.com/users/dubatael)
 
 </div>
 
