@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img border-radius="10px" src="./src/header.png" width="100%" />
+  <img border-radius="10px" src="./src/top.png" width="100%" />
 </div>
 
 ---
