@@ -18,7 +18,7 @@ Aqui você encontrará meus projetos, estudos e experiências no mundo da progra
 
 ---
 
-<img align="right" height="190px" src="./src/dddd.gif" style="border-radius: 50%; border: 3px solid #00F7FF; box-shadow: 0 0 15px #00F7FF;">
+<img align="right" height="190px" src="./src/cod.svg" style="border-radius: 50%; border: 3px solid #00F7FF; box-shadow: 0 0 15px #00F7FF;">
 
 <h3 align="center">Connect with me</h3>
 
