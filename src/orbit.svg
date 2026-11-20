@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 280" width="280" height="280" aria-hidden="true">
+<style>
+@keyframes twinkle { from { opacity: 1 } to { opacity: .2 } }
+@keyframes drift { from { transform: translate(-14px, 0) } to { transform: translate(14px, -6px) } }
+@media (prefers-reduced-motion: no-preference) {
+  .tw0 { animation: twinkle 2.6s ease-in-out infinite alternate }
+  .tw1 { animation: twinkle 3.4s ease-in-out .8s infinite alternate }
+  .tw2 { animation: twinkle 4.3s ease-in-out 1.6s infinite alternate }
+  .tw3 { animation: twinkle 5.6s ease-in-out .4s infinite alternate }
+  .drift0 { animation: drift 38s ease-in-out infinite alternate }
+  .drift1 { animation: drift 26s ease-in-out infinite alternate-reverse }
+}
+
+@keyframes orbit { to { transform: rotate(360deg) } }
+@keyframes float { from { transform: translateY(-4px) } to { transform: translateY(4px) } }
+@media (prefers-reduced-motion: no-preference) {
+  .orb { animation: orbit var(--d) linear infinite }
+  .planet { animation: float 5s ease-in-out infinite alternate }
+}
+</style>
+<defs>
+  <radialGradient id="pl" cx="35%" cy="30%" r="75%">
+    <stop offset="0" stop-color="#9BFBFF"/><stop offset=".35" stop-color="#4E7BFF"/><stop offset=".75" stop-color="#5B2A86"/><stop offset="1" stop-color="#1A0B3D"/>
+  </radialGradient>
+  <radialGradient id="halo"><stop offset=".55" stop-color="#7B5CFF" stop-opacity=".45"/><stop offset="1" stop-color="#7B5CFF" stop-opacity="0"/></radialGradient>
+  <linearGradient id="ring" x1="0" x2="1"><stop offset="0" stop-color="#00F7FF"/><stop offset=".5" stop-color="#E2D4FF"/><stop offset="1" stop-color="#FF7AD9"/></linearGradient>
+</defs>
+<g class="drift0">
+<g class="tw tw0"><circle cx="69.8" cy="151.9" r="0.7" fill="#FFFFFF" opacity="0.64"/><circle cx="177.3" cy="46.4" r="0.9" fill="#FFFFFF" opacity="0.59"/><circle cx="9.1" cy="117.3" r="0.4" fill="#FFFFFF" opacity="0.64"/><circle cx="140" cy="181.2" r="0.6" fill="#FFFFFF" opacity="0.67"/><circle cx="167" cy="260.4" r="0.5" fill="#FFFFFF" opacity="0.75"/><circle cx="96.2" cy="180.3" r="0.6" fill="#FFFFFF" opacity="0.42"/><circle cx="59.5" cy="133.9" r="0.8" fill="#FFFFFF" opacity="0.58"/><circle cx="136.7" cy="159" r="0.8" fill="#E2D4FF" opacity="0.44"/><circle cx="106" cy="168" r="0.6" fill="#E2D4FF" opacity="0.74"/><circle cx="105.8" cy="139" r="0.6" fill="#E2D4FF" opacity="0.68"/><circle cx="241.8" cy="257" r="0.9" fill="#CFF9FF" opacity="0.74"/><circle cx="130.4" cy="39" r="0.8" fill="#E2D4FF" opacity="0.79"/></g>
+<g class="tw tw1"><circle cx="165.4" cy="252.6" r="0.9" fill="#E2D4FF" opacity="0.53"/><circle cx="130.5" cy="176" r="0.7" fill="#E2D4FF" opacity="0.32"/><circle cx="205.8" cy="230.2" r="0.7" fill="#CFF9FF" opacity="0.46"/><circle cx="236.9" cy="235.9" r="0.4" fill="#FFFFFF" opacity="0.43"/><circle cx="39.6" cy="266.5" r="0.9" fill="#FFFFFF" opacity="0.33"/><circle cx="24.3" cy="267.2" r="0.4" fill="#CFF9FF" opacity="0.58"/><circle cx="71.7" cy="149.6" r="0.4" fill="#E2D4FF" opacity="0.53"/></g>
+<g class="tw tw2"><circle cx="241.5" cy="32.1" r="0.5" fill="#E2D4FF" opacity="0.83"/><circle cx="118.9" cy="229.4" r="0.7" fill="#FFFFFF" opacity="0.52"/><circle cx="188.8" cy="255" r="1" fill="#FFFFFF" opacity="0.67"/><circle cx="264.5" cy="248.5" r="0.8" fill="#CFF9FF" opacity="0.42"/><circle cx="198.5" cy="94.7" r="1" fill="#FFFFFF" opacity="0.58"/><circle cx="7.9" cy="35" r="1" fill="#CFF9FF" opacity="0.83"/><circle cx="176" cy="197.8" r="0.6" fill="#CFF9FF" opacity="0.44"/><circle cx="11.9" cy="22.2" r="1" fill="#E2D4FF" opacity="0.44"/><circle cx="164.8" cy="91.8" r="0.6" fill="#CFF9FF" opacity="0.50"/><circle cx="217" cy="34.1" r="1" fill="#FFFFFF" opacity="0.68"/><circle cx="147.9" cy="57.1" r="0.9" fill="#CFF9FF" opacity="0.40"/><circle cx="222.3" cy="178" r="0.6" fill="#CFF9FF" opacity="0.37"/><circle cx="246.3" cy="247.1" r="0.4" fill="#FFFFFF" opacity="0.71"/><circle cx="70.1" cy="11.3" r="0.4" fill="#FFFFFF" opacity="0.80"/><circle cx="90.3" cy="100.1" r="0.7" fill="#FFFFFF" opacity="0.50"/></g>
+<g class="tw tw3"><circle cx="249.6" cy="131.8" r="0.5" fill="#E2D4FF" opacity="0.69"/><circle cx="39.3" cy="135.2" r="0.7" fill="#FFFFFF" opacity="0.49"/><circle cx="246.4" cy="11.4" r="0.6" fill="#FFFFFF" opacity="0.37"/><circle cx="47.9" cy="17.4" r="0.6" fill="#E2D4FF" opacity="0.83"/><circle cx="129.4" cy="145.4" r="0.7" fill="#CFF9FF" opacity="0.61"/><circle cx="175.8" cy="95.1" r="0.9" fill="#CFF9FF" opacity="0.63"/></g>
+</g>
+<g class="drift1">
+<g class="tw tw0"><circle cx="38.8" cy="243.9" r="1.3" fill="#FFFFFF" opacity="0.67"/><circle cx="132.7" cy="214.1" r="1.1" fill="#FFFFFF" opacity="0.61"/><circle cx="120.9" cy="40.2" r="1.7" fill="#FFFFFF" opacity="0.91"/></g>
+<g class="tw tw1"><circle cx="202.6" cy="157.1" r="1.6" fill="#FFFFFF" opacity="0.55"/></g>
+<g class="tw tw2"></g>
+<g class="tw tw3"><circle cx="48.7" cy="262.6" r="1.7" fill="#CFF9FF" opacity="0.92"/></g>
+</g>
+<circle cx="140" cy="140" r="72" fill="none" stroke="#7B5CFF" stroke-opacity=".28" stroke-dasharray="2 6"/><circle cx="140" cy="140" r="100" fill="none" stroke="#7B5CFF" stroke-opacity=".28" stroke-dasharray="2 6"/><circle cx="140" cy="140" r="128" fill="none" stroke="#7B5CFF" stroke-opacity=".28" stroke-dasharray="2 6"/>
+<g class="planet">
+  <circle cx="140" cy="140" r="62" fill="url(#halo)"/>
+  <ellipse cx="140" cy="140" rx="66" ry="16" fill="none" stroke="url(#ring)" stroke-width="4" opacity=".55" transform="rotate(-22 140 140)"/>
+  <circle cx="140" cy="140" r="38" fill="url(#pl)"/>
+  <path d="M 74 140 A 66 16 0 0 0 206 140" fill="none" stroke="url(#ring)" stroke-width="4" transform="rotate(-22 140 140)"/>
+</g>
+<g transform="translate(140 140) rotate(20)"><g class="orb" style="--d:9s"><circle cx="72" cy="0" r="12.0" fill="#00F7FF" opacity=".18"/><circle cx="72" cy="0" r="5" fill="#00F7FF"/></g></g><g transform="translate(140 140) rotate(200)"><g class="orb" style="--d:15s"><circle cx="100" cy="0" r="9.6" fill="#FF7AD9" opacity=".18"/><circle cx="100" cy="0" r="4" fill="#FF7AD9"/></g></g><g transform="translate(140 140) rotate(110)"><g class="orb" style="--d:24s"><circle cx="128" cy="0" r="14.399999999999999" fill="#C77DFF" opacity=".18"/><circle cx="128" cy="0" r="6" fill="#C77DFF"/></g></g>
+</svg>

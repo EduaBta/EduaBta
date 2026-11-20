@@ -1,41 +1,47 @@
 name: generate animation
 
 on:
-  # run automatically every 24 hours
+  # roda sozinho todo dia
   schedule:
-    - cron: "0 */24 * * *" 
-  
-  # allows to manually run the job at any time
+    - cron: "0 3 * * *"
+
+  # permite rodar manualmente pela aba Actions
   workflow_dispatch:
-  
-  # run on every push on the master branch
+
+  # roda a cada push na branch main
   push:
     branches:
-    - main
-    
-  
+      - main
 
 jobs:
   generate:
-    permissions: 
+    permissions:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-    
+
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
+      - uses: actions/checkout@v4
+
+      # cobrinha comendo o gráfico de contribuições (clara, escura e nas cores da galáxia)
+      - name: generate snake animations
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
-          
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push github-contribution-grid-snake.svg to the output branch
+            dist/github-snake-galaxy.svg?palette=github-dark&color_snake=#00F7FF&color_dots=#161B22,#3B2A7A,#6A4BFF,#B86BFF,#00F7FF
+
+      # galáxia de contribuições: cada estrela é um dia do último ano
+      - name: generate contribution galaxy
+        run: python3 .github/scripts/contrib_galaxy.py "${{ github.repository_owner }}" dist/contrib-galaxy.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # publica tudo de dist/ na branch output
+      # fica disponível em https://raw.githubusercontent.com/<usuario>/<repo>/output/<arquivo>
+      - name: push animations to the output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
